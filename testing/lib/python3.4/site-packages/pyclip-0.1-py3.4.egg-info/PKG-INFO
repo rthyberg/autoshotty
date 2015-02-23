@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyclip
+Version: 0.1
+Summary: easily interact with X clipboard from Python
+Home-page: https://github.com/zhemao/pyclip
+Author: Zhehao Mao
+Author-email: zhehao.mao@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
