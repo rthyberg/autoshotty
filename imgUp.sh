@@ -12,6 +12,12 @@ while [ -h "$SOURCE" ]; do # resolve $SOURCE until the file is no longer a symli
 done
 RDIR="$( dirname "$SOURCE" )"
 DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> f22f11b0c04a3000528203b4adfcd9b75e019950
 
 
 
