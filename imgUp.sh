@@ -16,10 +16,6 @@ done
 #echo "SOURCE is '$SOURCE'"
 RDIR="$( dirname "$SOURCE" )"
 DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
-if [ "$DIR" != "$RDIR" ]; then
-#  echo "DIR '$RDIR' resolves to '$DIR'"
-fi
-# echo "DIR is '$DIR'"
 
 
 
