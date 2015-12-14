@@ -1,7 +1,3 @@
-# ImgScriptShutter
+# autoshotty 
 
-Small python script to take a  screenshot with scrot, upload imgur, copy link to clipboard
-
-export PATH="$PATH:~/pathtoscript
-
-This is my first github! WOOT!
+Command line utility that caputres a selection to be uploaded to imgur
